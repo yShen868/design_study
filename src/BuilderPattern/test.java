@@ -1,5 +1,8 @@
 package BuilderPattern;
 
+/**
+ * 生成器模式
+ */
 public class test {
 
     public static void main(String[] args) {

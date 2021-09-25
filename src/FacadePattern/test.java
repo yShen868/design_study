@@ -1,5 +1,8 @@
 package FacadePattern;
 
+/**
+ * 外观模式
+ */
 public class test {
 
     public static void main(String[] args) {

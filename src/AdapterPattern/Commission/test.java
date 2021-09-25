@@ -1,5 +1,8 @@
 package AdapterPattern.Commission;
 
+/**
+ * 适配器模式
+ */
 public class test {
     public static void main(String[] args) {
         Adapte adapte=new Adapte(new use220V());

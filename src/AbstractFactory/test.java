@@ -1,5 +1,8 @@
 package AbstractFactory;
 
+/**
+ * 抽象工厂
+ */
 public class test {
 
     public static void main(String[] args) {

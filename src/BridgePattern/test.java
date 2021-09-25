@@ -1,5 +1,8 @@
 package BridgePattern;
 
+/**
+ * 桥接模式
+ */
 public class test {
 
     public static void main(String[] args) {

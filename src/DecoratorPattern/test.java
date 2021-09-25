@@ -1,5 +1,8 @@
 package DecoratorPattern;
 
+/**
+ * 装饰者模式
+ */
 public class test {
 
     public static void main(String[] args) {
