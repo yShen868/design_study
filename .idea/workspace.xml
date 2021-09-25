@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9265ae-cca0-47b0-a487-27c5cba2e7c1" name="Default Changelist" comment="简单工厂、工厂方法、抽象工厂模式">
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/CommissionTest/Adapte220To18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/CommissionTest/Use220.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,10 +93,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596154383745" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -207,7 +206,7 @@
       <workItem from="1595902945057" duration="1502000" />
       <workItem from="1596070848012" duration="9391000" />
       <workItem from="1596153128917" duration="1103000" />
-      <workItem from="1632584713211" duration="836000" />
+      <workItem from="1632584713211" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂、工厂方法、抽象工厂模式">
       <created>1596098069543</created>
